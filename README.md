@@ -1,5 +1,6 @@
 # Case-Study-
  How Does a Bike-Share Navigate Speedy Success?
+
 After successfully completing the Google Data Analytics Certification course, I am now ready to tackle a case study provided by Google.
 
 I will share my insights and provide informed recommendations on the marketing strategies that will contribute to the company’s remarkable success.
